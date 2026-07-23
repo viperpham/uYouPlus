@@ -7,6 +7,12 @@
 "REPORT_AN_ISSUE" = "Informar de un problema";
 "ADD_TITLE" = "Añada aquí su título...";
 
+"COPY_SETTINGS" = "Copy settings";
+"COPY_SETTINGS_DESC" = "Copy all current settings to the clipboard";
+"PASTE_SETTINGS" = "Paste settings";
+"PASTE_SETTINGS_DESC" = "Paste settings from clipboard and apply";
+"PASTE_SETTINGS_ALERT" = "Are you sure you want to paste the settings?";
+
 "QUIT_YOUTUBE" = "Salir de Youtube";
 
 "RESTART_YOUTUBE" = "Reinicia YouTube para aplicar los cambios";
@@ -48,17 +54,20 @@
 "YT_MINIPLAYER" = "Activar el minirreproductor para todos los vídeos de YouTube";
 "YT_MINIPLAYER_DESC" = "Vídeos infantiles por ejemplo.";
 
-"HIDE_REMIX_BUTTON" = "Hides Remix button";
+"HIDE_REMIX_BUTTON" = "Oculta el botón Remix";
 "HIDE_REMIX_BUTTON_DESC" = "";
 
-"HIDE_CLIP_BUTTON" = "Hide Clip button";
+"HIDE_CLIP_BUTTON" = "Ocultar botón Clip";
 "HIDE_CLIP_BUTTON_DESC" = "";
 
-"HIDE_DOWNLOAD_BUTTON" = "Hide Download button";
+"HIDE_DOWNLOAD_BUTTON" = "Ocultar botón de descarga";
 "HIDE_DOWNLOAD_BUTTON_DESC" = "";
 
 "STOCK_VOLUME_HUD" = "Utiliza el HUD de volumen de iOS";
 "STOCK_VOLUME_HUD_DESC" = "";
+
+"REPLACE_YT_DOWNLOAD_WITH_UYOU" = "Replace YouTube's download with uYou's";
+"REPLACE_YT_DOWNLOAD_WITH_UYOU_DESC" = "";
 
 // Video controls overlay options
 "VIDEO_CONTROLS_OVERLAY_OPTIONS" = "📹 Opciones de superposición de controles de vídeo";
@@ -108,8 +117,8 @@
 // Miscellaneous
 "MISCELLANEOUS" = "🔎 Varios";
 
-"HIDE_UYOU" = "Hide uYou tab";
-"HIDE_ISPONSORBLOCK" = "Hide iSponsorBlock button";
+"HIDE_UYOU" = "Ocultar pestaña uYou";
+"HIDE_ISPONSORBLOCK" = "Ocultar botón iSponsorBlock";
 
 "CAST_CONFIRM" = "Alerta de confirmación antes de Enviar contenido (YTCastConfirm)";
 "CAST_CONFIRM_DESC" = "Mostrar una alerta de confirmación antes de Enviar contenido para prevenir el secuestro accidental del TV.";
@@ -144,3 +153,6 @@
 
 "FIX_GOOGLE_SIGNIN" = "Reparar el inicio de sesión de Google (solo para usuarios de TrollStore)";
 "FIX_GOOGLE_SIGNIN_DESC" = "Active esta opción solo cuando no pueda iniciar sesión con su cuenta de Google y la aplicación se instaló a través de TrollStore. Si puede iniciar sesión normalmente, manténgala desactivada. Es necesario reiniciar la aplicación.";
+
+"GOOGLE_SIGNIN_FIX" = "Google sign-in fix";
+"GOOGLE_SIGNIN_FIX_DESC" = "";
